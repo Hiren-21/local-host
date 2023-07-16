@@ -1,0 +1,11 @@
+.main::before{
+	content:"";
+	background: url("/1.jpg") center no-repeat cover/center;
+	z-index=-1;
+	opacity: 0.89;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
